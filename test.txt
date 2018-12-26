@@ -1,7 +1,0 @@
-hello test
-------------
-hello java
-------------
-hello world
---------
-hello likai
